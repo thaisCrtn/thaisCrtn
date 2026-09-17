@@ -87,14 +87,19 @@ Key areas:
 
 🇧🇷 Brazil
 
-Currently developing my professional skills in:
+📚 **Data Analysis Bootcamp**  
 
-- Data Analytics
+🇧🇷 Brazil
+
+Currently completing a 7-month Data Analysis Bootcamp, developing practical skills in:
+
 - SQL
 - Python
-- Business Intelligence
+- Data Cleaning
+- Exploratory Data Analysis
 - Data Visualization
-
+- Statistical Analysis
+- Business Intelligence
 ---
 
 ## 📚 Currently Improving
