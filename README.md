@@ -2,35 +2,41 @@
 
 ### Junior Data Analyst | SQL | Python | Power BI | Tableau
 
-I'm a Junior Data Analyst focused on transforming data into actionable business insights.
+I’m an aspiring Data Analyst with a background in Information Systems and a strong interest in turning data into actionable business insights.
 
-I have a background in Information Systems and I'm developing my skills in **SQL, Python, data analysis, data visualization and business intelligence**.
+I use SQL and Python to explore datasets, investigate business questions, identify trends, and communicate findings through clear visualizations. Through hands-on portfolio projects, I’m building practical experience in data cleaning, exploratory data analysis, statistical testing, customer analytics, and business intelligence.
 
-I enjoy working with data to identify patterns, answer business questions and communicate insights through clear and meaningful visualizations.
+I enjoy approaching problems analytically, learning new tools, and translating data into insights that can support better decisions.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
-### Data Analysis
+**Data Analysis**
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Preparation
+- Statistical Analysis and Hypothesis Testing
+- Customer and Sales Analysis
+- Business Insights and KPI Analysis
+
+**Languages & Libraries**
 - SQL
 - Python
 - Pandas
-- Data Cleaning
-- Exploratory Data Analysis
-- Statistical Analysis
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
 
-### Databases
+**Databases**
 - PostgreSQL
 
-### Data Visualization
+**Business Intelligence & Visualization**
 - Power BI
 - Tableau
-- Matplotlib
 
-### Tools
-- Git
-- GitHub
+**Tools**
+- Git and GitHub
 - VS Code
 - Jupyter Notebook
 
@@ -39,82 +45,71 @@ I enjoy working with data to identify patterns, answer business questions and co
 ## 📊 Featured Projects
 
 ### 🛒 E-commerce Sales & Customer Analytics
+**SQL | PostgreSQL | Python | Customer Analytics**
 
-**PostgreSQL | SQL | Python | Power BI**
+Analyzed e-commerce sales and customer behavior to explore revenue trends, product performance, purchasing patterns, and customer value.
 
-Analyzed e-commerce sales performance and customer behavior using 50,000 orders and 131,694 order items.
-
-Key analysis:
-
-- Revenue performance
-- Customer purchasing behavior
+**Focus areas**
+- Revenue and monthly sales trends
 - Product and category performance
-- Monthly revenue trends
-- Returning vs one-time customers
+- Customer purchasing behavior
+- Returning customer analysis
 - RFM customer segmentation
-
-**Key Results:**
-
-- €39.06M revenue
-- 43,077 completed orders
-- €906.76 Average Order Value
-- 7,423 purchasing customers
 
 🔗 [View Project](https://github.com/thaisCrtn/ecommerce-sales-customer-analytics)
 
 ---
 
-### 📺 YouTube Trending Videos Analysis
+### 🎮 Video Game Sales Analysis
+**Python | Pandas | EDA | Data Visualization | Statistical Testing**
 
-**Python | Data Analysis | Tableau**
+Explored historical video game sales data to identify trends in platform performance, game genres, regional preferences, and factors associated with sales.
 
-Analyzed trending YouTube videos to identify patterns across categories, countries and video performance.
+**Focus areas**
+- Data cleaning and exploratory analysis
+- Platform and genre performance
+- Regional market comparisons
+- Reviews and sales relationships
+- Statistical hypothesis testing
 
-Key areas:
-
-- Trending video categories
-- Geographic analysis
-- Video performance
-- Data visualization
-
-🔗 [View Tableau Project](https://public.tableau.com/views/YouTubeTrendingVideosAnlisedeCategoriaseRegies/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [View Project](https://github.com/thaisCrtn/eda_videogames)
 
 ---
 
-## 🎓 Background
+### 📞 Telecom Customer Analysis — CallMeMaybe
+**Python | Pandas | Exploratory Data Analysis | Statistical Analysis**
 
-🎓 **BSc in Information Systems**
+Analyzed telecom-related data to investigate customer usage patterns and evaluate business performance. The project applies data analysis techniques to explore the dataset and support evidence-based conclusions.
 
-🇧🇷 Brazil
+🔗 [View Project](https://github.com/thaisCrtn/telecom_CallMeMaybe_analysis)
 
-📚 **Data Analysis Bootcamp**  
-
-🇧🇷 Brazil
-
-Currently completing a 7-month Data Analysis Bootcamp, developing practical skills in:
-
-- SQL
-- Python
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- Statistical Analysis
-- Business Intelligence
 ---
 
-## 📚 Currently Improving
+## 🎓 Education
 
-I'm continuously improving my skills in:
+**BSc in Information Systems**  
+Brazil
 
-**SQL → Python → Data Analysis → Data Visualization → Business Intelligence**
+**Data Analysis Bootcamp — TripleTen Brasil**  
+Developing practical skills in SQL, Python, data preparation, exploratory analysis, visualization, and statistical analysis through hands-on projects.
+
+---
+
+## 📚 Currently Developing
+
+- Advanced SQL and analytical queries
+- Python for data analysis
+- Data visualization and dashboard development
+- Statistical analysis and business interpretation
+- Business intelligence and data-driven decision-making
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/th%C3%A1is-cristina-6a3a4b212/)
-- 📊 Tableau: [View my Tableau Public](https://public.tableau.com/app/profile/thais.cristina.da.costa/vizzes)
+- 💼 [LinkedIn](https://www.linkedin.com/in/th%C3%A1is-cristina-6a3a4b212/)
+- 📊 [Tableau Public](https://public.tableau.com/app/profile/thais.cristina.da.costa/vizzes)
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+⭐ Feel free to explore my repositories and projects!
