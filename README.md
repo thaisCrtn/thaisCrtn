@@ -91,8 +91,7 @@ Analyzed telecom-related data to investigate customer usage patterns and evaluat
 Brazil
 
 **Data Analysis Bootcamp — TripleTen Brasil**  
-Developing practical skills in SQL, Python, data preparation, exploratory analysis, visualization, and statistical analysis through hands-on projects.
-
+Completed a 7-month bootcamp focused on SQL, Python, data preparation, exploratory analysis, visualization, and statistical analysis through hands-on projects.
 ---
 
 ## 📚 Currently Developing
