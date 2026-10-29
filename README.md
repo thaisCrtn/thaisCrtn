@@ -92,6 +92,7 @@ Brazil
 
 **Data Analysis Bootcamp — TripleTen Brasil**  
 Completed a 7-month bootcamp focused on SQL, Python, data preparation, exploratory analysis, visualization, and statistical analysis through hands-on projects.
+
 ---
 
 ## 📚 Currently Developing
